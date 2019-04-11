@@ -1,10 +1,10 @@
-# Cloudticity HIPAA Compliance Policies
+# Cloudticity HITRUST Compliant Policies
 
-HIPAA compliance is complicated but it doesn't have to be. Cloudticity helps relieve the technical burden with our HIPAA-compliant cloud computing platform and solutions for healthcare.
+HITRUST compliance is complicated but it does not have to be. Cloudticity helps relieve the technical burden with our HITRUST-compliant cloud computing platform and solutions for healthcare.
 
-In an effort to make compliance as easy as possible for companies working with protected health information (PHI), we decided to open source our company policies.
+In an effort to make compliance as easy as possible for companies working with protected health information (PHI) and other sensitive data, we decided to open source our company policies.
 
-Do you handle PHI and not yet have your own company policies in place? Then you'll find our content useful.
+Do you handle PHI and not yet have your own company policies in place? Are you interested in pursuing HITRUST compliance? Then you'll find our content useful.
 
 ### License
 
@@ -15,7 +15,7 @@ All policies are licensed under [CC BY-SA 4.0](http://creativecommons.org/licens
 Each policy is included as its own markdown file in case you want to cherry pick specific policies. If you currently have no policies in place, we encourage you to consider utilizing all policies after a thorough review.
 
 * [Introduction](source/sections/01-introduction.md)
-* [HIPAA Inheritance](source/sections/02-hipaa_inheritance.md)
+* [HITRUST Inheritance](source/sections/02-hitrust_inheritance.md)
 * [Policy Management Policy](source/sections/03-policy_management_policy.md)
 * [Risk Management Policy](source/sections/04-risk_management_policy.md)
 * [Roles Policy](source/sections/05-roles_policy.md)
@@ -36,5 +36,6 @@ Each policy is included as its own markdown file in case you want to cherry pick
 * [Approved Tools Policy](source/sections/20-approved_tools_policy.md)
 * [3rd Party Policy](source/sections/21-3rd_party_policy.md)
 * [Key Definitions](source/sections/22-key_definitions.md)
-* [Cloudticity HIPAA Business Associate Agreement (“BAA”)](source/sections/23-cloudticity_hipaa_business_associate_agreement.md)
-* [HIPAA Mappings to Cloudticity Controls](source/sections/24-hipaa_mapping_to_cloudticity_controls.md)
+* [Cloudticity Business Associate Agreement Template (“BAA”)](source/sections/23-cloudticity_business_associate_agreement_template.md)
+* [Compliance Mappings to Cloudticity Controls](source/sections/24-compliance_mapping_to_cloudticity_controls.md)
+* [Information Management Policy](source/sections/25-information_management_policy.md)

@@ -1,6 +1,10 @@
-# 24. HIPAA Mappings to Cloudticity Controls
+# 24. Compliance Mappings to Cloudticity Controls
 
-Below is a list of HIPAA Safeguards and Requirements and the Cloudticity controls in place to meet those.
+Below is a list of Compliance (HITRUST, HIPAA, and HITECH) Safeguards and Requirements and the Cloudticity controls in place to meet those.
+
+| **HITRUST Controls** HITRUST Control | Cloudticity Control
+--- | ---
+Security Management Process - ## | Risk Management Policy
 
 | **Administrative Controls** HIPAA Rule | Cloudticity Control
 --- | ---
@@ -37,7 +41,7 @@ Business Associate Contracts or Other Arrangements - 164.314(a)(1)(i) | Business
 Policies and Procedures - 164.316(a) | Policy Management Policy
 Documentation - 164.316(b)(1)(i) | Policy Management Policy
 
-| **HITECH Act - Security Provisions** HIPAA Rule | Cloudticity Control
+| **HITECH Act - Security Provisions** HITECH Rule | Cloudticity Control
 --- | ---
 Notification in the Case of Breach - 13402(a) and (b) | Breach Policy
 Timelines of Notification - 13402(d)(1) | Breach Policy
